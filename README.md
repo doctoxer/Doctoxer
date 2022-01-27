@@ -7,8 +7,7 @@
    
 ### My Telegram Movie Group: [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
   </a> <br> <br>
-  <a href="https://github.com/doctoxer" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ivan&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
  
  </a> <br> 
  ### You can also find me Here: [![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)](https://t.me/IvanDaniel_TG)
