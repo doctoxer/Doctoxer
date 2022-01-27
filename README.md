@@ -4,8 +4,7 @@
    <a href="https://telegra.ph/file/09789f0a6b08139f7e0fc.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/09789f0a6b08139f7e0fc.jpg?raw=true)</a>
    
    
-    
- #####Movie Group [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
+   [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
 
  
  </a> <br> 
