@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=ivan&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
  
  </a> <br> 
- ### You can also find me Here: [![telegram badge](https://img.shields.io/badge/@CLaY995-30302f?style=for-the-badge&logo=telegram)](https://t.me/CLaY995)
+ ### You can also find me Here: [![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)](https://t.me/IvanDaniel_TG)
 
 
 
