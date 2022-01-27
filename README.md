@@ -13,7 +13,7 @@
 ```
    
  </a> <br> 
- ### You can also find me Here: [![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)](https://t.me/IvanDaniel_TG)
+ ### You can also find me Here: 
 
 
 
@@ -24,5 +24,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctoxer&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctoxer&theme=highcontrast)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ivan.aefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.aefx" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/ivan.aefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.aefx" height="30" width="40" />[![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)](https://t.me/IvanDaniel_TG)</a>
+
+   </p>
