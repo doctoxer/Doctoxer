@@ -5,8 +5,7 @@
    
    
    
- <a href="https://github.com/doctoxer" target="_blank">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ivan?label=Github%20followers&style=for-the-badge">
+### My Telegram Movie Group: [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
   </a> <br> <br>
   <a href="https://github.com/doctoxer" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ivan&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
