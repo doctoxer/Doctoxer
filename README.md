@@ -1,7 +1,7 @@
-<h2 align="center"> Hi 👋 , It'Z me  CLÆ͜͡Ｙ <br/></h2> 
+<h2 align="center"> Hi 👋 , It'Z me  Ivan <br/></h2> 
 <h3 align="center">Learning.... 🧑‍💻. Hopefully will get there some day.<br> <br>
 
-   <a href="https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg?raw=true)</a>
+   <a href="https://telegra.ph/file/09789f0a6b08139f7e0fc.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/09789f0a6b08139f7e0fc.jpg?raw=true)</a>
    
    
    
