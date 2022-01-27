@@ -19,9 +19,9 @@
 
 <h2 align="centre">I'm just a NooB; Infact a Total Noob 🤓<h2>
 
-
+[![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)]()
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctoxer&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctoxer&theme=highcontrast)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ivan.aefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.aefx" height="30" width="40" /><a href="https://instagram.com/ivan.aefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.aefx" height="30" width="40" /></a></p>
+<a href="https://instagram.com/ivan.aefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.aefx" height="30" width="40" /><a href="https://t.me/IvanDaniel_TG" target="blank"><img align="center" src="https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram" alt="IvanDaniel_TG" height="30" width="40" /></a></p>
