@@ -5,7 +5,7 @@
    
    
     
-   <h2 align="center"> [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat) <br/></h2> 
+   [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
 
  
  </a> <br> 
