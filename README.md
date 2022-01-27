@@ -12,13 +12,11 @@
 ```
    
  </a> <br> 
- ### You can also find me Here: 
 
 
 
 <h2 align="centre">I'm just a NooB; Infact a Total Noob 🤓<h2>
 
-[![telegram badge](https://img.shields.io/badge/@IvanDaniel_TG-30302f?style=for-the-badge&logo=telegram)]()
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctoxer&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctoxer&theme=highcontrast)
 <h3 align="left">Connect with me:</h3>
