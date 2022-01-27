@@ -5,7 +5,7 @@
    
    
     
- ################ Movie Group [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
+ #####Movie Group [![telegram badge](https://img.shields.io/badge/@MoviePalace_Chat-30302f?style=for-the-badge&logo=telegram)](https://t.me/MoviePalace_Chat)
 
  
  </a> <br> 
