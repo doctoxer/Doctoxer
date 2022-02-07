@@ -3,7 +3,7 @@
 
    <img align= "center" width= "240" src= "https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif"/>
    
-   <a href="https://telegra.ph/file/995d7d30fd3aeab8e2e9d.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/09789f0a6b08139f7e0fc.jpg?raw=true)</a>
+   <a href="https://telegra.ph/file/995d7d30fd3aeab8e2e9d.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/995d7d30fd3aeab8e2e9d.jpg?raw=true)</a>
    
    
  ```
