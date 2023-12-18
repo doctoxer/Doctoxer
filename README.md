@@ -20,9 +20,6 @@
    Hey I'm Still in Collage 😒.
    Totally Bored ¯\_(ツ)_/¯<h2>
    
-   #### Contribution Graph
-[![Ivan Daniel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Doctoxer&theme=react-dark)](https://github.com/doctoxer/github-readme-activity-graph)
-
 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctoxer&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctoxer&theme=highcontrast)
