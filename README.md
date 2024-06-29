@@ -1,45 +1,44 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʜɪ,+ᴍʏꜱᴇʟꜰ+ᴀᴍᴀʟ+ᴍᴀᴛʜᴇᴡ;ɪ'ᴍ+ᴊᴜꜱᴛ+ᴀ+ɴᴏᴏʙ+ᴅᴇᴠᴇʟᴏᴘᴇʀ;ꜱᴛɪʟʟ+ʟᴇᴀʀɴɪɴɢ+ꜰʀᴏᴍ+ᴏᴛʜᴇʀꜱ+ʀᴇᴘᴏꜱ)</p>
+<p align="center">
 
 
-   <img align= "center" width= "240" src= "https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif"/>
-   
-   <a href="https://telegra.ph/file/995d7d30fd3aeab8e2e9d.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/995d7d30fd3aeab8e2e9d.jpg?raw=true)</a>
-   
-   
- ```
-- 🤞 Hi, I’m Ivan Daniel
-- 😁 I’m interested in So Many Stuffs😋😒...
-- 😎 I’m currently Learning Forensic Science and Data Analytics 😅😂...
-```
-   
- </a> <br> 
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
-<h2 align="centre">I'm just a NooB;
-   Infact a Total Noob 🤓.
-   Hey I'm Still in Collage 😒.
-   Totally Bored ¯\_(ツ)_/¯<h2>
-   
-
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctoxer&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctoxer&theme=highcontrast)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+ᴢᴇɴʏx'ꜱ ʙɪᴏ 🙋‍♂
+<p align="left">
+╰─➩ ᴍʏ ɴᴀᴍᴇ - ᴢᴇɴʏx
+<p align="left">
+╰─➩ ᴅᴏʙ - 29 | 06 | 2001
+<p align="left">
+╰─➩ ʟᴇᴠᴇʟ - ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋɪɴɢ ⁽ʷⁱᵗʰᵒᵘᵗ ᵉᵗʰⁱᶜˢ⁾
+<p align="left">
+╰─➩ ᴀɢᴇ - 👨🏻‍🦳
+<p align="left">
+╰─➩ ᴀɢᴇ - 👨🏻‍🦳
+<p align="left">
+╰─➩ ʜᴏʙʙɪᴇꜱ - 𝐠𝐚𝐦𝐞𝐬, 𝐦𝐨𝐯𝐢𝐞𝐬, 𝐦𝐮𝐬𝐢𝐜
+<p align="left">
+╰─➩ ᴘʟᴀᴄᴇ - ɪɴᴅɪᴀ
+<p align="left">
+╰─➩ ᴋɴᴏᴡɴ ʟᴀɴɢᴜᴀɢᴇꜱ - ᴍᴀʟᴀʏᴀʟᴀᴍ, ᴛᴀᴍɪʟ, ᴋᴀɴɴᴀᴅᴀ
+
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Doctoxer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
    
 <p align="center">
-  <a href="https://github.com/doctoxer"><img alt="Github" title="Ivan Daniel Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.snapchat.com/add/amalcha678"><img alt="Bad Boy Snapchat" title="Ivan Daniel DC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
-  <a href="https://facebook.com/doctoxer"><img alt="Facebook" title="Ivan Daniel Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/doctoxer"><img alt="Github" title="Zenyx Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/ivan.aefx"><img alt="Instagram" title="Ivan Daniel Instagram Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:amstudio678@gmail.com"><img alt="Gmail" title="Ivan Daniel Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/IvanDaniel_TG"><img alt="Telegram" title="Ivan Daniel Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://t.me/ZenyxZone"><img alt="Telegram" title="Ivan Daniel Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
    
    
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
