@@ -30,16 +30,15 @@
   <a href="https://github.com/doctoxer"><img alt="Github" title="Zenyx Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/ivan.aefx"><img alt="Instagram" title="Ivan Daniel Instagram Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
+
+ 
  <p align="center">
   <a href="mailto:amstudio678@gmail.com"><img alt="Gmail" title="Ivan Daniel Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/ZenyxZone"><img alt="Telegram" title="Ivan Daniel Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
    
    
-
-
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
